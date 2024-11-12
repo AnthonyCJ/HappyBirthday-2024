@@ -161,23 +161,23 @@ const animationTimeline = () => {
       },
       "+=0.7"
     )
-    .from(".idea-1", 1.5, ideaTextTrans)
-    .to(".idea-1", 1.5, ideaTextTransLeave, "+=1.5")
-    .from(".idea-2", 1.5, ideaTextTrans)
-    .to(".idea-2", 1.5, ideaTextTransLeave, "+=1.5")
-    .from(".idea-3", 1.5, ideaTextTrans)
+    .from(".idea-1", 1.8, ideaTextTrans)
+    .to(".idea-1", 1.8, ideaTextTransLeave, "+=1.5")
+    .from(".idea-2", 1.8, ideaTextTrans)
+    .to(".idea-2", 1.8, ideaTextTransLeave, "+=1.5")
+    .from(".idea-3", 1.8, ideaTextTrans)
     .to(".idea-3 strong", 0.5, {
       scale: 1.2,
       x: 10,
       backgroundColor: "rgb(21, 161, 237)",
       color: "#fff"
     })
-    .to(".idea-3", 1.5, ideaTextTransLeave, "+=1.5")
-    .from(".idea-4", 1.5, ideaTextTrans)
-    .to(".idea-4", 1.5, ideaTextTransLeave, "+=1.5")
+    .to(".idea-3", 1.8, ideaTextTransLeave, "+=1.5")
+    .from(".idea-4", 1.8, ideaTextTrans)
+    .to(".idea-4", 1.8, ideaTextTransLeave, "+=1.5")
     .from(
       ".idea-5",
-      1.4,
+      1.8,
       {
         rotationX: 15,
         rotationZ: -10,
@@ -190,7 +190,7 @@ const animationTimeline = () => {
     )
     .to(
       ".idea-5 .smiley",
-      1.5,
+      1.8,
       {
         rotation: 90,
         x: 8
