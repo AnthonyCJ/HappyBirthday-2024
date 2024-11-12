@@ -2,8 +2,8 @@
   "greeting": "亲爱的",
   "name": "Charlotte",
   "greetingText": "感谢你一直以来的陪伴与支持，你的专注和对物理的热情总是那么令人钦佩。",
-  "wishText": "愿你所有的梦想都能像你最喜欢的公式一样优美且简单地实现！",
-  "imagePath": "img/lydia2.png",
+  "wishText": "愿你所有的梦想都能像你最喜欢的公式一样优美、简单地实现！",
+  "imagePath": "img/Charlotte.png",
   "text1": "今天是你的生日哦!!! :D",
   "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
   "sendButtonLabel": "发送",
@@ -17,7 +17,7 @@
   "bigTextPart1": "XCJ",
   "bigTextPart2": "祝你",
   "wishHeading": "生日快乐!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
+  "outroText": "希望你喜欢这个小小的惊喜!",
   "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
   "outroSmiley": ":)"
 }
